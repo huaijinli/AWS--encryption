@@ -1,0 +1,7 @@
+build
+.*.sw?
+*~
+*.[ch]-e
+.DS_Store
+*.goto
+*.log
